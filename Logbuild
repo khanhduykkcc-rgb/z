@@ -1,10 +1,11 @@
-Started 41s ago
-0s
+build
+failed 1 minute ago in 17s
+1s
 2s
 0s
+2s
 3s
-3s
-8s
+5s
 Run set -euo pipefail
 ==> xcodebuild (Cofi / Debug / iphoneos)
 Command line invocation:
@@ -62,23 +63,19 @@ ExecuteExternalTool /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/X
 
 ExecuteExternalTool /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -v -E -dM -arch arm64 -isysroot /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -x c++ -c /dev/null
 
-Build description signature: fa9ae2b15392da274aee66c6b417a1db
-Build description path: /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/XCBuildData/fa9ae2b15392da274aee66c6b417a1db.xcbuilddata
-CreateBuildDirectory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Products
-    cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
-    builtin-create-build-directory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Products
-
+Build description signature: c601a5dab5b39069fbf1429296951af0
+Build description path: /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/XCBuildData/c601a5dab5b39069fbf1429296951af0.xcbuilddata
 CreateBuildDirectory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex
     cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
     builtin-create-build-directory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex
 
+CreateBuildDirectory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Products
+    cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
+    builtin-create-build-directory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Products
+
 ClangStatCache /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk /Users/runner/work/-uc/-uc/build/DerivedData/SDKStatCaches.noindex/iphoneos26.2-23C57-dc75598d0054f22ec865fa860f139d722dd23b4ebda140f7210d155ff1243552.sdkstatcache
     cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
     /Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang-stat-cache /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk -o /Users/runner/work/-uc/-uc/build/DerivedData/SDKStatCaches.noindex/iphoneos26.2-23C57-dc75598d0054f22ec865fa860f139d722dd23b4ebda140f7210d155ff1243552.sdkstatcache
-
-WriteAuxiliaryFile /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi-c8e5d5c34b494e00523d7d2f9fbf4cfe-VFS-iphoneos/all-product-headers.yaml
-    cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
-    write-file /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi-c8e5d5c34b494e00523d7d2f9fbf4cfe-VFS-iphoneos/all-product-headers.yaml
 
 CreateBuildDirectory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Products/Debug-iphoneos
     cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
@@ -92,17 +89,21 @@ CreateBuildDirectory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermed
     cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
     builtin-create-build-directory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/ExplicitPrecompiledModules
 
+WriteAuxiliaryFile /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi-c8e5d5c34b494e00523d7d2f9fbf4cfe-VFS-iphoneos/all-product-headers.yaml
+    cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
+    write-file /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi-c8e5d5c34b494e00523d7d2f9fbf4cfe-VFS-iphoneos/all-product-headers.yaml
+
 CreateBuildDirectory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphoneos
     cd /Users/runner/work/-uc/-uc/Cofi.xcodeproj
     builtin-create-build-directory /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/EagerLinkingTBDs/Debug-iphoneos
 
-WriteAuxiliaryFile /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Script-AAA2986F2F741423000B5902.sh (in target 'Cofi' from project 'Cofi')
-    cd /Users/runner/work/-uc/-uc
-    write-file /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Script-AAA2986F2F741423000B5902.sh
-
 WriteAuxiliaryFile /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Script-FBC0A0012FD6000000C0A001.sh (in target 'Cofi' from project 'Cofi')
     cd /Users/runner/work/-uc/-uc
     write-file /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Script-FBC0A0012FD6000000C0A001.sh
+
+WriteAuxiliaryFile /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Script-AAA2986F2F741423000B5902.sh (in target 'Cofi' from project 'Cofi')
+    cd /Users/runner/work/-uc/-uc
+    write-file /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Script-AAA2986F2F741423000B5902.sh
 
 WriteAuxiliaryFile /Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Objects-normal/arm64e/e6072d4f65d7061329687fe24e3d63a7-common-args.resp (in target 'Cofi' from project 'Cofi')
     cd /Users/runner/work/-uc/-uc
@@ -543,7 +544,7 @@ PhaseScriptExecution Run\ Script /Users/runner/work/-uc/-uc/build/DerivedData/Bu
     export OTHER_LDFLAGS\=\ /Users/runner/work/-uc/-uc/Cofi/XPF/output/ios/libxpf.dylib
     export PACKAGE_TYPE\=com.apple.package-type.wrapper.application
     export PASCAL_STRINGS\=YES
-    export PATH\=/Applications/Xcode_26.3.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.deP4k2/Metal.xctoolchain/usr/bin:/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.deP4k2/Metal.xctoolchain/usr/local/bin:/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.deP4k2/Metal.xctoolchain/usr/libexec:/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode_26.3.app/Contents/Developer/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/usr/local/bin:/opt/homebrew/lib/ruby/gems/3.3.0/bin:/opt/homebrew/opt/ruby@3.3/bin:/Users/runner/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/runner/.cargo/bin:/usr/local/opt/curl/bin:/usr/local/bin:/usr/local/sbin:/Users/runner/bin:/Users/runner/.yarn/bin:/Users/runner/Library/Android/sdk/tools:/Users/runner/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/bin:/bin:/usr/sbin:/sbin:/Users/runner/.dotnet/tools
+    export PATH\=/Applications/Xcode_26.3.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.7R7FLm/Metal.xctoolchain/usr/bin:/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.7R7FLm/Metal.xctoolchain/usr/local/bin:/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.7R7FLm/Metal.xctoolchain/usr/libexec:/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode_26.3.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode_26.3.app/Contents/Developer/usr/bin:/Applications/Xcode_26.3.app/Contents/Developer/usr/local/bin:/opt/homebrew/lib/ruby/gems/3.3.0/bin:/opt/homebrew/opt/ruby@3.3/bin:/Users/runner/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Users/runner/.cargo/bin:/usr/local/opt/curl/bin:/usr/local/bin:/usr/local/sbin:/Users/runner/bin:/Users/runner/.yarn/bin:/Users/runner/Library/Android/sdk/tools:/Users/runner/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/Current/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/usr/bin:/bin:/usr/sbin:/sbin:/Users/runner/.dotnet/tools
     export PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES\=/usr/include\ /usr/local/include\ /System/Library/Frameworks\ /System/Library/PrivateFrameworks\ /Applications/Xcode_26.3.app/Contents/Developer/Headers\ /Applications/Xcode_26.3.app/Contents/Developer/SDKs\ /Applications/Xcode_26.3.app/Contents/Developer/Platforms
     export PBDEVELOPMENTPLIST_PATH\=Cofi.app/pbdevelopment.plist
     export PER_ARCH_MODULE_FILE_DIR\=/Users/runner/work/-uc/-uc/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Objects-normal/undefined_arch
@@ -714,7 +715,7 @@ PhaseScriptExecution Run\ Script /Users/runner/work/-uc/-uc/build/DerivedData/Bu
     export TEST_FRAMEWORK_SEARCH_PATHS\=\ /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks\ /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS26.2.sdk/Developer/Library/Frameworks
     export TEST_LIBRARY_SEARCH_PATHS\=\ /Applications/Xcode_26.3.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/lib
     export TOOLCHAINS\=com.apple.dt.toolchain.Metal.32023.864\ com.apple.dt.toolchain.XcodeDefault
-    export TOOLCHAIN_DIR\=/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.deP4k2/Metal.xctoolchain
+    export TOOLCHAIN_DIR\=/var/run/com.apple.security.cryptexd/mnt/com.apple.MobileAsset.MetalToolchain-v17.3.7003.10.7R7FLm/Metal.xctoolchain
     export TOOLCHAIN_VERSION\=32023.864
     export TREAT_MISSING_BASELINES_AS_TEST_FAILURES\=NO
     export TREAT_MISSING_SCRIPT_PHASE_OUTPUTS_AS_ERRORS\=NO
