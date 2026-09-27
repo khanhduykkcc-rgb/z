@@ -1,0 +1,1008 @@
+ago
+2s
+3s
+0s
+1s
+3s
+1m 12s
+1h 13s
+      |               ^~~~~~
+      |               angle
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:182:15: warning: parameter 'axis:' not found in the function declaration [-Wdocumentation]
+  182 |      * @param axis: The vector about which the rotation occurs.
+      |               ^~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:182:15: note: did you mean 'axis'?
+  182 |      * @param axis: The vector about which the rotation occurs.
+      |               ^~~~~
+      |               axis
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:191:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  191 |      * @param rotation: The x, y and z rotations.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:191:15: note: did you mean 'rotation'?
+  191 |      * @param rotation: The x, y and z rotations.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:200:15: warning: parameter 'x:' not found in the function declaration [-Wdocumentation]
+  200 |      * @param x: The rotation about the x-axis in radians.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:201:15: warning: parameter 'y:' not found in the function declaration [-Wdocumentation]
+  201 |      * @param y: The rotation about the y-axis in radians.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:202:15: warning: parameter 'z:' not found in the function declaration [-Wdocumentation]
+  202 |      * @param z: The rotation about the z-axis in radians.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:209:15: warning: parameter 'fromVector:' not found in the function declaration [-Wdocumentation]
+  209 |      * @param fromVector: The vector from which to start the rotation.
+      |               ^~~~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:209:15: note: did you mean 'fromVector'?
+  209 |      * @param fromVector: The vector from which to start the rotation.
+      |               ^~~~~~~~~~~
+      |               fromVector
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:210:15: warning: parameter 'toVector:' not found in the function declaration [-Wdocumentation]
+  210 |      * @param toVector: The vector at which to end the rotation.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:210:15: note: did you mean 'toVector'?
+  210 |      * @param toVector: The vector at which to end the rotation.
+      |               ^~~~~~~~~
+      |               toVector
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:218:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  218 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:218:15: note: did you mean 'rotation'?
+  218 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:226:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  226 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:227:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  227 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:235:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  235 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:236:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  236 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:237:15: warning: parameter 't:' not found in the function declaration [-Wdocumentation]
+  237 |      * @param t: The interpolation value.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:247:15: warning: parameter 'forward:' not found in the function declaration [-Wdocumentation]
+  247 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:247:15: note: did you mean 'forward'?
+  247 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+      |               forward
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:255:15: warning: parameter 'forward:' not found in the function declaration [-Wdocumentation]
+  255 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:255:15: note: did you mean 'forward'?
+  255 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+      |               forward
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:256:15: warning: parameter 'upwards:' not found in the function declaration [-Wdocumentation]
+  256 |      * @param upwards: The direction to treat as up.
+      |               ^~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:256:15: note: did you mean 'upwards'?
+  256 |      * @param upwards: The direction to treat as up.
+      |               ^~~~~~~~
+      |               upwards
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:263:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  263 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:263:15: note: did you mean 'rotation'?
+  263 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:270:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  270 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:270:15: note: did you mean 'rotation'?
+  270 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:279:15: warning: parameter 'from:' not found in the function declaration [-Wdocumentation]
+  279 |      * @param from: The rotation at which to start.
+      |               ^~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:279:15: note: did you mean 'from'?
+  279 |      * @param from: The rotation at which to start.
+      |               ^~~~~
+      |               from
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:280:15: warning: parameter 'to:' not found in the function declaration [-Wdocumentation]
+  280 |      * @param to: The rotation at which to end.
+      |               ^~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:280:15: note: did you mean 'to'?
+  280 |      * @param to: The rotation at which to end.
+      |               ^~~
+      |               to
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:281:15: warning: parameter 'maxRadiansDelta:' not found in the function declaration [-Wdocumentation]
+  281 |      # @param maxRadiansDelta: The maximum number of radians to rotate.
+      |               ^~~~~~~~~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:281:15: note: did you mean 'maxRadiansDelta'?
+  281 |      # @param maxRadiansDelta: The maximum number of radians to rotate.
+      |               ^~~~~~~~~~~~~~~~
+      |               maxRadiansDelta
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:291:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  291 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:292:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  292 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:293:15: warning: parameter 't:' not found in the function declaration [-Wdocumentation]
+  293 |      * @param t: The interpolation value.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:301:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  301 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:302:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  302 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:303:15: warning: parameter 't:' not found in the function declaration [-Wdocumentation]
+  303 |      * @param t: The interpolation value.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:311:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  311 |      * @param rotation: The input quaternion.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:311:15: note: did you mean 'rotation'?
+  311 |      * @param rotation: The input quaternion.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:312:15: warning: parameter 'angle:' not found in the function declaration [-Wdocumentation]
+  312 |      * @param angle: The output angle.
+      |               ^~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:312:15: note: did you mean 'angle'?
+  312 |      * @param angle: The output angle.
+      |               ^~~~~~
+      |               angle
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:313:15: warning: parameter 'axis:' not found in the function declaration [-Wdocumentation]
+  313 |      * @param axis: The output axis.
+      |               ^~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:313:15: note: did you mean 'axis'?
+  313 |      * @param axis: The output axis.
+      |               ^~~~~
+      |               axis
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:321:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  321 |      * @param rotation: The quaternion to convert.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/drawing_view/../Core/Quaternion.h:321:15: note: did you mean 'rotation'?
+  321 |      * @param rotation: The quaternion to convert.
+      |               ^~~~~~~~~
+      |               rotation
+Running Hikari On /Users/runner/work/kk/kk/Cofi/drawing_view/esp.mm
+Conf:           /Users/runner/work/kk/kk/policy.json
+Root:           /Users/runner/work/kk/kk
+SrcRoot:        /Users/runner/work/kk/kk
+std::mt19937_64 seeded with current timestamp: 1790484209646
+>>>> run strenc on -[ESPFrameBuilder init]
+>>>> run strenc on -[ESPFrameBuilder reset]
+>>>> run strenc on -[ESPFrameBuilder buildDrawPacket:screenWidth:screenHeight:]
+>>>> run strenc on _ZL10CGSizeMakedd
+>>>> run strenc on _ZN22CameraProjectionSampleC1Ev
+>>>> run strenc on _Z10isValidPtry
+>>>> run strenc on _Z8ReadAddrIyET_y
+>>>> run strenc on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run strenc on _ZL21StabilizeProjectedBoxP17ProjectedBoxTrackly6CGRectd6CGSizey
+>>>> run strenc on _ZL10CGRectMakedddd
+>>>> run strenc on _ZL11CGPointMakedd
+>>>> run strenc on -[ESPFrameBuilder .cxx_destruct]
+>>>> run strenc on _ZN22CameraProjectionSampleC2Ev
+>>>> run strenc on _ZN7Vector3C1Ev
+>>>> run strenc on _ZN7Vector3C2Ev
+>>>> run strenc on _ZL21FindProjectedBoxTrackP17ProjectedBoxTracklyb
+strenc time: 0.0102222s
+>>>> run split on -[ESPFrameBuilder init]
+>>>> run split on -[ESPFrameBuilder reset]
+>>>> run split on -[ESPFrameBuilder buildDrawPacket:screenWidth:screenHeight:]
+>>>> run split on _ZL10CGSizeMakedd
+>>>> run split on _ZN22CameraProjectionSampleC1Ev
+>>>> run split on _Z10isValidPtry
+>>>> run split on _Z8ReadAddrIyET_y
+>>>> run split on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run split on _ZL21StabilizeProjectedBoxP17ProjectedBoxTrackly6CGRectd6CGSizey
+>>>> run split on _ZL10CGRectMakedddd
+>>>> run split on _ZL11CGPointMakedd
+>>>> run split on -[ESPFrameBuilder .cxx_destruct]
+>>>> run split on _ZN22CameraProjectionSampleC2Ev
+>>>> run split on _ZN7Vector3C1Ev
+>>>> run split on _ZN7Vector3C2Ev
+>>>> run split on _ZL21FindProjectedBoxTrackP17ProjectedBoxTracklyb
+split time: 0.0022140s
+>>>> run fla on -[ESPFrameBuilder init]
+>>>> run fla on -[ESPFrameBuilder reset]
+Fixing Stack
+Fixed Stack
+>>>> run fla on -[ESPFrameBuilder buildDrawPacket:screenWidth:screenHeight:]
+>>>> run fla on _ZL10CGSizeMakedd
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN22CameraProjectionSampleC1Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z10isValidPtry
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z8ReadAddrIyET_y
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZNSt3__16__math8isfiniteB8de190107Ef
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL21StabilizeProjectedBoxP17ProjectedBoxTrackly6CGRectd6CGSizey
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL10CGRectMakedddd
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL11CGPointMakedd
+Fixing Stack
+Fixed Stack
+>>>> run fla on -[ESPFrameBuilder .cxx_destruct]
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN22CameraProjectionSampleC2Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN7Vector3C1Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN7Vector3C2Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL21FindProjectedBoxTrackP17ProjectedBoxTracklyb
+Fixing Stack
+Fixed Stack
+fla time: 0.0097799s
+>>>> run sub on -[ESPFrameBuilder init]
+>>>> run sub on -[ESPFrameBuilder reset]
+>>>> run sub on -[ESPFrameBuilder buildDrawPacket:screenWidth:screenHeight:]
+>>>> run sub on _ZL10CGSizeMakedd
+>>>> run sub on _ZN22CameraProjectionSampleC1Ev
+>>>> run sub on _Z10isValidPtry
+>>>> run sub on _Z8ReadAddrIyET_y
+>>>> run sub on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run sub on _ZL21StabilizeProjectedBoxP17ProjectedBoxTrackly6CGRectd6CGSizey
+>>>> run sub on _ZL10CGRectMakedddd
+>>>> run sub on _ZL11CGPointMakedd
+>>>> run sub on -[ESPFrameBuilder .cxx_destruct]
+>>>> run sub on _ZN22CameraProjectionSampleC2Ev
+>>>> run sub on _ZN7Vector3C1Ev
+>>>> run sub on _ZN7Vector3C2Ev
+>>>> run sub on _ZL21FindProjectedBoxTrackP17ProjectedBoxTracklyb
+sub time: 0.0034299s
+>>>> run constenc on -[ESPFrameBuilder init]
+>>>> run constenc on -[ESPFrameBuilder reset]
+>>>> run constenc on -[ESPFrameBuilder buildDrawPacket:screenWidth:screenHeight:]
+>>>> run constenc on _ZL10CGSizeMakedd
+>>>> run constenc on _ZN22CameraProjectionSampleC1Ev
+>>>> run constenc on _Z10isValidPtry
+>>>> run constenc on _Z8ReadAddrIyET_y
+>>>> run constenc on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run constenc on _ZL21StabilizeProjectedBoxP17ProjectedBoxTrackly6CGRectd6CGSizey
+>>>> run constenc on _ZL10CGRectMakedddd
+>>>> run constenc on _ZL11CGPointMakedd
+>>>> run constenc on -[ESPFrameBuilder .cxx_destruct]
+>>>> run constenc on _ZN22CameraProjectionSampleC2Ev
+>>>> run constenc on _ZN7Vector3C1Ev
+>>>> run constenc on _ZN7Vector3C2Ev
+>>>> run constenc on _ZL21FindProjectedBoxTrackP17ProjectedBoxTracklyb
+constenc time: 0.0046899s
+>>>> run indibr on _ZL21StabilizeProjectedBoxP17ProjectedBoxTrackly6CGRectd6CGSizey
+Running IndirectBranch On _ZL21StabilizeProjectedBoxP17ProjectedBoxTrackly6CGRectd6CGSizey
+>>>> run indibr on _ZL10CGRectMakedddd
+Running IndirectBranch On _ZL10CGRectMakedddd
+>>>> run indibr on _ZL11CGPointMakedd
+Running IndirectBranch On _ZL11CGPointMakedd
+>>>> run indibr on -[ESPFrameBuilder .cxx_destruct]
+Running IndirectBranch On -[ESPFrameBuilder .cxx_destruct]
+>>>> run indibr on _ZN22CameraProjectionSampleC2Ev
+Running IndirectBranch On _ZN22CameraProjectionSampleC2Ev
+>>>> run indibr on _ZN7Vector3C1Ev
+Running IndirectBranch On _ZN7Vector3C1Ev
+>>>> run indibr on _ZN7Vector3C2Ev
+Running IndirectBranch On _ZN7Vector3C2Ev
+>>>> run indibr on _ZL21FindProjectedBoxTrackP17ProjectedBoxTracklyb
+Running IndirectBranch On _ZL21FindProjectedBoxTrackP17ProjectedBoxTracklyb
+>>>> run indibr on -[ESPFrameBuilder init]
+Running IndirectBranch On -[ESPFrameBuilder init]
+>>>> run indibr on -[ESPFrameBuilder reset]
+Running IndirectBranch On -[ESPFrameBuilder reset]
+>>>> run indibr on -[ESPFrameBuilder buildDrawPacket:screenWidth:screenHeight:]
+Running IndirectBranch On -[ESPFrameBuilder buildDrawPacket:screenWidth:screenHeight:]
+>>>> run indibr on _ZL10CGSizeMakedd
+Running IndirectBranch On _ZL10CGSizeMakedd
+>>>> run indibr on _ZN22CameraProjectionSampleC1Ev
+Running IndirectBranch On _ZN22CameraProjectionSampleC1Ev
+>>>> run indibr on _Z10isValidPtry
+Running IndirectBranch On _Z10isValidPtry
+>>>> run indibr on _Z8ReadAddrIyET_y
+Running IndirectBranch On _Z8ReadAddrIyET_y
+>>>> run indibr on _ZNSt3__16__math8isfiniteB8de190107Ef
+Running IndirectBranch On _ZNSt3__16__math8isfiniteB8de190107Ef
+indibr time: 0.0257390s
+Hikari total time: 0.0565722s
+===-------------------------------------------------------------------------===
+                                     Hikari
+===-------------------------------------------------------------------------===
+  Total Execution Time: 0.0639 seconds (0.1126 wall clock)
+   ---User Time---   --System Time--   --User+System--   ---Wall Time---  --- Name ---
+   0.0285 ( 50.1%)   0.0036 ( 51.0%)   0.0321 ( 50.2%)   0.0566 ( 50.2%)  total
+   0.0141 ( 24.8%)   0.0013 ( 18.7%)   0.0154 ( 24.1%)   0.0257 ( 22.8%)  indibr
+   0.0043 (  7.6%)   0.0004 (  5.6%)   0.0047 (  7.4%)   0.0102 (  9.1%)  strenc
+   0.0040 (  7.1%)   0.0008 ( 11.3%)   0.0048 (  7.5%)   0.0098 (  8.7%)  fla
+   0.0039 (  6.8%)   0.0004 (  6.1%)   0.0043 (  6.7%)   0.0047 (  4.2%)  constenc
+   0.0010 (  1.7%)   0.0003 (  3.5%)   0.0012 (  1.9%)   0.0034 (  3.0%)  sub
+   0.0011 (  1.9%)   0.0003 (  3.7%)   0.0013 (  2.1%)   0.0022 (  2.0%)  split
+   0.0568 (100.0%)   0.0071 (100.0%)   0.0639 (100.0%)   0.1126 (100.0%)  Total
+37 warnings generated.
+CompileC /Users/runner/work/kk/kk/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Objects-normal/arm64e/arm64.o /Users/runner/work/kk/kk/Cofi/XPF/external/ChOma/include/choma/arm64.c normal arm64e c com.apple.compilers.llvm.clang.1_0.compiler (in target 'Cofi' from project 'Cofi')
+    cd /Users/runner/work/kk/kk
+    /Users/runner/work/kk/kk/ollvm/cc-wrapper.sh -x c -target arm64e-apple-ios17.0 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -std\=gnu17 -Wno-trigraphs -fpascal-strings -O0 -fno-common -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Wquoted-include-in-framework-header -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-implicit-fallthrough -DDEBUG\=1 -isysroot /Applications/Xcode_16.4.app/Contents/Developer/
+CompileC /Users/runner/work/kk/kk/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Objects-normal/arm64e/VM.o /Users/runner/work/kk/kk/Cofi/TaskRop/VM.m normal arm64e objective-c com.apple.compilers.llvm.clang.1_0.compiler (in target 'Cofi' from project 'Cofi')
+    cd /Users/runner/work/kk/kk
+    /Users/runner/work/kk/kk/ollvm/cc-wrapper.sh -x objective-c -target arm64e-apple-ios17.0 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -std\=gnu17 -fobjc-arc -fobjc-weak -Wno-trigraphs -fpascal-strings -O0 -fno-common -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Wquoted-include-in-framework-header -Wno-implicit-atomic-properties -Werror\=deprecated-objc-isa-usage -Wno-objc-interface-ivars -Werror\=objc-root-class -Wno-arc-repeated-use-of-weak -Wimplicit-retain-self -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wo
+/Users/runner/work/kk/kk/Cofi/TaskRop/VM.m:10:9: warning: non-portable path to file '"VM.h"'; specified path differs in case from file name on disk [-Wnonportable-include-path]
+   10 | #import "vm.h"
+      |         ^~~~~~
+      |         "VM.h"
+In file included from /Users/runner/work/kk/kk/Cofi/TaskRop/VM.m:14:
+In file included from /Users/runner/work/kk/kk/Cofi/TaskRop/../kexploit/kexploit_opa334.h:6:
+/Users/runner/work/kk/kk/Cofi/TaskRop/../kexploit/../LogTextView.h:16:27: warning: pointer is missing a nullability type specifier (_Nonnull, _Nullable, or _Null_unspecified) [-Wnullability-completeness]
+   16 | void log_write(const char *msg);
+      |                           ^
+/Users/runner/work/kk/kk/Cofi/TaskRop/../kexploit/../LogTextView.h:16:27: note: insert '_Nullable' if the pointer may be null
+   16 | void log_write(const char *msg);
+      |                           ^
+      |                             _Nullable 
+/Users/runner/work/kk/kk/Cofi/TaskRop/../kexploit/../LogTextView.h:16:27: note: insert '_Nonnull' if the pointer should never be null
+   16 | void log_write(const char *msg);
+      |                           ^
+      |                             _Nonnull 
+/Users/runner/work/kk/kk/Cofi/TaskRop/../kexploit/../LogTextView.h:40:10: warning: pointer is missing a nullability type specifier (_Nonnull, _Nullable, or _Null_unspecified) [-Wnullability-completeness]
+   40 | NSString *log_inapp_buffer_snapshot(void);
+      |          ^
+/Users/runner/work/kk/kk/Cofi/TaskRop/../kexploit/../LogTextView.h:40:10: note: insert '_Nullable' if the pointer may be null
+   40 | NSString *log_inapp_buffer_snapshot(void);
+      |          ^
+      |            _Nullable 
+/Users/runner/work/kk/kk/Cofi/TaskRop/../kexploit/../LogTextView.h:40:10: note: insert '_Nonnull' if the pointer should never be null
+   40 | NSString *log_inapp_buffer_snapshot(void);
+      |          ^
+      |            _Nonnull 
+Running Hikari On /Users/runner/work/kk/kk/Cofi/TaskRop/VM.m
+Conf:           /Users/runner/work/kk/kk/policy.json
+Root:           /Users/runner/work/kk/kk
+SrcRoot:        /Users/runner/work/kk/kk
+std::mt19937_64 seeded with current timestamp: 1790484208778
+>>>> run strenc on vm_map_get_header
+>>>> run strenc on vm_map_header_get_first_entry
+>>>> run strenc on vm_map_entry_get_next_entry
+>>>> run strenc on vm_header_get_nentries
+>>>> run strenc on vm_entry_get_range
+>>>> run strenc on vm_map_iterate_entries
+>>>> run strenc on vm_map_find_entry
+>>>> run strenc on __vm_map_find_entry_block_invoke
+>>>> run strenc on __copy_helper_block_e8_32r
+>>>> run strenc on __destroy_helper_block_e8_32r
+>>>> run strenc on VM_PACKING_IS_BASE_RELATIVE
+>>>> run strenc on vm_unpack_pointer
+>>>> run strenc on vm_pack_pointer
+>>>> run strenc on VME_OFFSET
+>>>> run strenc on vm_get_object
+>>>> run strenc on vm_create_shmem_with_object
+>>>> run strenc on vm_create_shmem_with_object_protection
+>>>> run strenc on vm_map_remote_page
+>>>> run strenc on vm_map_remote_page_readonly
+strenc time: 0.0040910s
+>>>> run sub on vm_map_get_header
+>>>> run sub on vm_map_header_get_first_entry
+>>>> run sub on vm_map_entry_get_next_entry
+>>>> run sub on vm_header_get_nentries
+>>>> run sub on vm_entry_get_range
+>>>> run sub on vm_map_iterate_entries
+>>>> run sub on vm_map_find_entry
+>>>> run sub on __vm_map_find_entry_block_invoke
+>>>> run sub on __copy_helper_block_e8_32r
+>>>> run sub on __destroy_helper_block_e8_32r
+>>>> run sub on VM_PACKING_IS_BASE_RELATIVE
+>>>> run sub on vm_unpack_pointer
+>>>> run sub on vm_pack_pointer
+>>>> run sub on VME_OFFSET
+>>>> run sub on vm_get_object
+>>>> run sub on vm_create_shmem_with_object
+>>>> run sub on vm_create_shmem_with_object_protection
+>>>> run sub on vm_map_remote_page
+>>>> run sub on vm_map_remote_page_readonly
+sub time: 0.0069559s
+>>>> run constenc on vm_map_get_header
+>>>> run constenc on vm_map_header_get_first_entry
+>>>> run constenc on vm_map_entry_get_next_entry
+>>>> run constenc on vm_header_get_nentries
+>>>> run constenc on vm_entry_get_range
+>>>> run constenc on vm_map_iterate_entries
+>>>> run constenc on vm_map_find_entry
+>>>> run constenc on __vm_map_find_entry_block_invoke
+>>>> run constenc on __copy_helper_block_e8_32r
+>>>> run constenc on __destroy_helper_block_e8_32r
+>>>> run constenc on VM_PACKING_IS_BASE_RELATIVE
+>>>> run constenc on vm_unpack_pointer
+>>>> run constenc on vm_pack_pointer
+>>>> run constenc on VME_OFFSET
+>>>> run constenc on vm_get_object
+>>>> run constenc on vm_create_shmem_with_object
+>>>> run constenc on vm_create_shmem_with_object_protection
+>>>> run constenc on vm_map_remote_page
+>>>> run constenc on vm_map_remote_page_readonly
+constenc time: 0.0064008s
+>>>> run indibr on vm_create_shmem_with_object
+Running IndirectBranch On vm_create_shmem_with_object
+>>>> run indibr on vm_create_shmem_with_object_protection
+Running IndirectBranch On vm_create_shmem_with_object_protection
+>>>> run indibr on vm_map_remote_page
+Running IndirectBranch On vm_map_remote_page
+>>>> run indibr on vm_map_remote_page_readonly
+Running IndirectBranch On vm_map_remote_page_readonly
+>>>> run indibr on vm_map_get_header
+Running IndirectBranch On vm_map_get_header
+>>>> run indibr on vm_map_header_get_first_entry
+Running IndirectBranch On vm_map_header_get_first_entry
+>>>> run indibr on vm_map_entry_get_next_entry
+Running IndirectBranch On vm_map_entry_get_next_entry
+>>>> run indibr on vm_header_get_nentries
+Running IndirectBranch On vm_header_get_nentries
+>>>> run indibr on vm_entry_get_range
+Running IndirectBranch On vm_entry_get_range
+>>>> run indibr on vm_map_iterate_entries
+Running IndirectBranch On vm_map_iterate_entries
+>>>> run indibr on vm_map_find_entry
+Running IndirectBranch On vm_map_find_entry
+>>>> run indibr on __vm_map_find_entry_block_invoke
+Running IndirectBranch On __vm_map_find_entry_block_invoke
+>>>> run indibr on __copy_helper_block_e8_32r
+Running IndirectBranch On __copy_helper_block_e8_32r
+>>>> run indibr on __destroy_helper_block_e8_32r
+Running IndirectBranch On __destroy_helper_block_e8_32r
+>>>> run indibr on VM_PACKING_IS_BASE_RELATIVE
+Running IndirectBranch On VM_PACKING_IS_BASE_RELATIVE
+>>>> run indibr on vm_unpack_pointer
+Running IndirectBranch On vm_unpack_pointer
+>>>> run indibr on vm_pack_pointer
+Running IndirectBranch On vm_pack_pointer
+>>>> run indibr on VME_OFFSET
+Running IndirectBranch On VME_OFFSET
+>>>> run indibr on vm_get_object
+Running IndirectBranch On vm_get_object
+indibr time: 0.0031788s
+Hikari total time: 0.0209820s
+===-------------------------------------------------------------------------===
+                                     Hikari
+===-------------------------------------------------------------------------===
+  Total Execution Time: 0.0261 seconds (0.0416 wall clock)
+   ---User Time---   --System Time--   --User+System--   ---Wall Time---  --- Name ---
+   0.0105 ( 50.2%)   0.0027 ( 51.1%)   0.0132 ( 50.4%)   0.0210 ( 50.4%)  total
+   0.0014 (  6.6%)   0.0005 (  8.6%)   0.0018 (  7.0%)   0.0070 ( 16.7%)  sub
+   0.0053 ( 25.3%)   0.0009 ( 17.1%)   0.0062 ( 23.7%)   0.0064 ( 15.4%)  constenc
+   0.0020 (  9.7%)   0.0003 (  6.7%)   0.0024 (  9.1%)   0.0041 (  9.8%)  strenc
+   0.0017 (  8.2%)   0.0009 ( 16.5%)   0.0026 (  9.9%)   0.0032 (  7.6%)  indibr
+   0.0209 (100.0%)   0.0052 (100.0%)   0.0261 (100.0%)   0.0416 (100.0%)  Total
+3 warnings generated.
+CompileC /Users/runner/work/kk/kk/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Objects-normal/arm64e/Util.o /Users/runner/work/kk/kk/Cofi/XPF/external/ChOma/include/choma/Util.c normal arm64e c com.apple.compilers.llvm.clang.1_0.compiler (in target 'Cofi' from project 'Cofi')
+    cd /Users/runner/work/kk/kk
+    /Users/runner/work/kk/kk/ollvm/cc-wrapper.sh -x c -target arm64e-apple-ios17.0 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -std\=gnu17 -Wno-trigraphs -fpascal-strings -O0 -fno-common -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Wquoted-include-in-framework-header -Werror\=deprecated-objc-isa-usage -Werror\=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-float-conversion -Wnon-literal-null-conversion -Wobjc-literal-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-implicit-fallthrough -DDEBUG\=1 -isysroot /Applications/Xcode_16.4.app/Contents/Developer/
+CompileC /Users/runner/work/kk/kk/build/DerivedData/Build/Intermediates.noindex/Cofi.build/Debug-iphoneos/Cofi.build/Objects-normal/arm64e/UnityMath.o /Users/runner/work/kk/kk/Cofi/Core/UnityMath.mm normal arm64e objective-c++ com.apple.compilers.llvm.clang.1_0.compiler (in target 'Cofi' from project 'Cofi')
+    cd /Users/runner/work/kk/kk
+    /Users/runner/work/kk/kk/ollvm/cc-wrapper.sh -x objective-c++ -target arm64e-apple-ios17.0 -fmessage-length\=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit\=0 -fno-color-diagnostics -std\=gnu++20 -fobjc-arc -fobjc-weak -Wno-trigraphs -D_LIBCPP_HARDENING_MODE\=_LIBCPP_HARDENING_MODE_DEBUG -fpascal-strings -O0 -fno-common -Wno-missing-field-initializers -Wno-missing-prototypes -Werror\=return-type -Wdocumentation -Wunreachable-code -Wquoted-include-in-framework-header -Wno-implicit-atomic-properties -Werror\=deprecated-objc-isa-usage -Wno-objc-interface-ivars -Werror\=objc-root-class -Wno-arc-repeated-use-of-weak -Wimplicit-retain-self -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversio
+In file included from /Users/runner/work/kk/kk/Cofi/Core/UnityMath.mm:1:
+In file included from /Users/runner/work/kk/kk/Cofi/Core/UnityMath.h:39:
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:157:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  157 |      * @param a: The first quaternion.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:158:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  158 |      * @param b: The second quaternion.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:165:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  165 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:165:15: note: did you mean 'rotation'?
+  165 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:172:15: warning: parameter 'lhs:' not found in the function declaration [-Wdocumentation]
+  172 |      * @param lhs: The left side of the multiplication.
+      |               ^~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:172:15: note: did you mean 'lhs'?
+  172 |      * @param lhs: The left side of the multiplication.
+      |               ^~~~
+      |               lhs
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:173:15: warning: parameter 'rhs:' not found in the function declaration [-Wdocumentation]
+  173 |      * @param rhs: The right side of the multiplication.
+      |               ^~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:173:15: note: did you mean 'rhs'?
+  173 |      * @param rhs: The right side of the multiplication.
+      |               ^~~~
+      |               rhs
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:181:15: warning: parameter 'angle:' not found in the function declaration [-Wdocumentation]
+  181 |      * @param angle: The rotation angle in radians.
+      |               ^~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:181:15: note: did you mean 'angle'?
+  181 |      * @param angle: The rotation angle in radians.
+      |               ^~~~~~
+      |               angle
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:182:15: warning: parameter 'axis:' not found in the function declaration [-Wdocumentation]
+  182 |      * @param axis: The vector about which the rotation occurs.
+      |               ^~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:182:15: note: did you mean 'axis'?
+  182 |      * @param axis: The vector about which the rotation occurs.
+      |               ^~~~~
+      |               axis
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:191:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  191 |      * @param rotation: The x, y and z rotations.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:191:15: note: did you mean 'rotation'?
+  191 |      * @param rotation: The x, y and z rotations.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:200:15: warning: parameter 'x:' not found in the function declaration [-Wdocumentation]
+  200 |      * @param x: The rotation about the x-axis in radians.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:201:15: warning: parameter 'y:' not found in the function declaration [-Wdocumentation]
+  201 |      * @param y: The rotation about the y-axis in radians.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:202:15: warning: parameter 'z:' not found in the function declaration [-Wdocumentation]
+  202 |      * @param z: The rotation about the z-axis in radians.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:209:15: warning: parameter 'fromVector:' not found in the function declaration [-Wdocumentation]
+  209 |      * @param fromVector: The vector from which to start the rotation.
+      |               ^~~~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:209:15: note: did you mean 'fromVector'?
+  209 |      * @param fromVector: The vector from which to start the rotation.
+      |               ^~~~~~~~~~~
+      |               fromVector
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:210:15: warning: parameter 'toVector:' not found in the function declaration [-Wdocumentation]
+  210 |      * @param toVector: The vector at which to end the rotation.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:210:15: note: did you mean 'toVector'?
+  210 |      * @param toVector: The vector at which to end the rotation.
+      |               ^~~~~~~~~
+      |               toVector
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:218:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  218 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:218:15: note: did you mean 'rotation'?
+  218 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:226:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  226 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:227:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  227 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:235:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  235 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:236:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  236 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:237:15: warning: parameter 't:' not found in the function declaration [-Wdocumentation]
+  237 |      * @param t: The interpolation value.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:247:15: warning: parameter 'forward:' not found in the function declaration [-Wdocumentation]
+  247 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:247:15: note: did you mean 'forward'?
+  247 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+      |               forward
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:255:15: warning: parameter 'forward:' not found in the function declaration [-Wdocumentation]
+  255 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:255:15: note: did you mean 'forward'?
+  255 |      * @param forward: The forward direction to look toward.
+      |               ^~~~~~~~
+      |               forward
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:256:15: warning: parameter 'upwards:' not found in the function declaration [-Wdocumentation]
+  256 |      * @param upwards: The direction to treat as up.
+      |               ^~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:256:15: note: did you mean 'upwards'?
+  256 |      * @param upwards: The direction to treat as up.
+      |               ^~~~~~~~
+      |               upwards
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:263:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  263 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:263:15: note: did you mean 'rotation'?
+  263 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:270:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  270 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:270:15: note: did you mean 'rotation'?
+  270 |      * @param rotation: The quaternion in question.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:279:15: warning: parameter 'from:' not found in the function declaration [-Wdocumentation]
+  279 |      * @param from: The rotation at which to start.
+      |               ^~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:279:15: note: did you mean 'from'?
+  279 |      * @param from: The rotation at which to start.
+      |               ^~~~~
+      |               from
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:280:15: warning: parameter 'to:' not found in the function declaration [-Wdocumentation]
+  280 |      * @param to: The rotation at which to end.
+      |               ^~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:280:15: note: did you mean 'to'?
+  280 |      * @param to: The rotation at which to end.
+      |               ^~~
+      |               to
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:281:15: warning: parameter 'maxRadiansDelta:' not found in the function declaration [-Wdocumentation]
+  281 |      # @param maxRadiansDelta: The maximum number of radians to rotate.
+      |               ^~~~~~~~~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:281:15: note: did you mean 'maxRadiansDelta'?
+  281 |      # @param maxRadiansDelta: The maximum number of radians to rotate.
+      |               ^~~~~~~~~~~~~~~~
+      |               maxRadiansDelta
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:291:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  291 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:292:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  292 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:293:15: warning: parameter 't:' not found in the function declaration [-Wdocumentation]
+  293 |      * @param t: The interpolation value.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:301:15: warning: parameter 'a:' not found in the function declaration [-Wdocumentation]
+  301 |      * @param a: The starting rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:302:15: warning: parameter 'b:' not found in the function declaration [-Wdocumentation]
+  302 |      * @param b: The ending rotation.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:303:15: warning: parameter 't:' not found in the function declaration [-Wdocumentation]
+  303 |      * @param t: The interpolation value.
+      |               ^~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:311:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  311 |      * @param rotation: The input quaternion.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:311:15: note: did you mean 'rotation'?
+  311 |      * @param rotation: The input quaternion.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:312:15: warning: parameter 'angle:' not found in the function declaration [-Wdocumentation]
+  312 |      * @param angle: The output angle.
+      |               ^~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:312:15: note: did you mean 'angle'?
+  312 |      * @param angle: The output angle.
+      |               ^~~~~~
+      |               angle
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:313:15: warning: parameter 'axis:' not found in the function declaration [-Wdocumentation]
+  313 |      * @param axis: The output axis.
+      |               ^~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:313:15: note: did you mean 'axis'?
+  313 |      * @param axis: The output axis.
+      |               ^~~~~
+      |               axis
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:321:15: warning: parameter 'rotation:' not found in the function declaration [-Wdocumentation]
+  321 |      * @param rotation: The quaternion to convert.
+      |               ^~~~~~~~~
+/Users/runner/work/kk/kk/Cofi/Core/Quaternion.h:321:15: note: did you mean 'rotation'?
+  321 |      * @param rotation: The quaternion to convert.
+      |               ^~~~~~~~~
+      |               rotation
+/Users/runner/work/kk/kk/Cofi/Core/UnityMath.mm:829:44: warning: implicit conversion loses integer precision: 'size_t' (aka 'unsigned long') to 'int' [-Wshorten-64-to-32]
+  829 |         if (_read(indicesBase, tempBuffer, bytesToRead)) {
+      |             ~~~~~                          ^~~~~~~~~~~
+Running Hikari On /Users/runner/work/kk/kk/Cofi/Core/UnityMath.mm
+Conf:           /Users/runner/work/kk/kk/policy.json
+Root:           /Users/runner/work/kk/kk
+SrcRoot:        /Users/runner/work/kk/kk
+std::mt19937_64 seeded with current timestamp: 1790484211718
+>>>> run strenc on unity_math_info_layout
+>>>> run strenc on _ZNSt3__16__math8isfiniteB8de190107Ed
+>>>> run strenc on unity_math_info_visibility
+>>>> run strenc on unity_math_line_end_offset
+>>>> run strenc on _Z13WorldToScreen7Vector3PKf18CameraMatrixLayoutffb
+>>>> run strenc on _ZN7Vector3C1Efff
+>>>> run strenc on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run strenc on _Z20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjection
+>>>> run strenc on _Z10isValidPtry
+>>>> run strenc on _ZN10Quaternion8IdentityEv
+>>>> run strenc on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_0clEv
+>>>> run strenc on _Z5_readyPvi
+>>>> run strenc on _ZL29IsPerspectiveProjectionMatrixPKf18CameraMatrixLayout
+>>>> run strenc on _ZL21ScoreCameraProjectionPKf18CameraMatrixLayoutPK22CameraProjectionSamplemff
+>>>> run strenc on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_1clEPKf18CameraMatrixLayout
+>>>> run strenc on _ZN10Quaternion3DotES_S_
+>>>> run strenc on _ZL24IsFiniteProjectionMatrixPKf
+>>>> run strenc on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_2clEv
+>>>> run strenc on __cxx_global_var_init
+>>>> run strenc on _ZN18GXMatrixCacheEntryC1Ev
+>>>> run strenc on _Z25GXBeginTransformReadFramev
+>>>> run strenc on _Z14getPositionExty
+>>>> run strenc on _ZL16GXGetPositionExtyb
+>>>> run strenc on _Z22getPositionExtUncachedy
+>>>> run strenc on _Z11GetNickNamey
+>>>> run strenc on _Z8ReadAddrIyET_y
+>>>> run strenc on _Z8ReadAddrIiET_y
+>>>> run strenc on _ZL13Utf16_To_Utf8PKtPcm15ConversionFlags
+>>>> run strenc on _ZN7Vector3C2Efff
+>>>> run strenc on _ZN10QuaternionC1Effff
+>>>> run strenc on _ZN10QuaternionC2Effff
+>>>> run strenc on _ZL27IsPointInsideExtendedCanvas7Vector3ff
+>>>> run strenc on _ZL19IsPointInsideCanvas7Vector3ff
+>>>> run strenc on _ZN18GXMatrixCacheEntryC2Ev
+>>>> run strenc on _ZN7TMatrixC1Ev
+>>>> run strenc on _ZN7TMatrixC2Ev
+>>>> run strenc on _ZN10QuaternionC1Ev
+>>>> run strenc on _ZN10QuaternionC2Ev
+>>>> run strenc on _ZN7Vector34zeroEv
+>>>> run strenc on _ZL18GXCacheParentIndexyiPi
+>>>> run strenc on _ZL18GXCacheReadTMatrixyP7TMatrix
+>>>> run strenc on _ZL17GXMatrixCacheHashy
+>>>> run strenc on _GLOBAL__sub_I_UnityMath.mm
+strenc time: 0.0084651s
+>>>> run split on unity_math_info_layout
+>>>> run split on _ZNSt3__16__math8isfiniteB8de190107Ed
+>>>> run split on unity_math_info_visibility
+>>>> run split on unity_math_line_end_offset
+>>>> run split on _Z13WorldToScreen7Vector3PKf18CameraMatrixLayoutffb
+>>>> run split on _ZN7Vector3C1Efff
+>>>> run split on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run split on _Z20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjection
+>>>> run split on _Z10isValidPtry
+>>>> run split on _ZN10Quaternion8IdentityEv
+>>>> run split on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_0clEv
+>>>> run split on _Z5_readyPvi
+>>>> run split on _ZL29IsPerspectiveProjectionMatrixPKf18CameraMatrixLayout
+>>>> run split on _ZL21ScoreCameraProjectionPKf18CameraMatrixLayoutPK22CameraProjectionSamplemff
+>>>> run split on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_1clEPKf18CameraMatrixLayout
+>>>> run split on _ZN10Quaternion3DotES_S_
+>>>> run split on _ZL24IsFiniteProjectionMatrixPKf
+>>>> run split on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_2clEv
+>>>> run split on __cxx_global_var_init
+>>>> run split on _ZN18GXMatrixCacheEntryC1Ev
+>>>> run split on _Z25GXBeginTransformReadFramev
+>>>> run split on _Z14getPositionExty
+>>>> run split on _ZL16GXGetPositionExtyb
+>>>> run split on _Z22getPositionExtUncachedy
+>>>> run split on _Z11GetNickNamey
+>>>> run split on _Z8ReadAddrIyET_y
+>>>> run split on _Z8ReadAddrIiET_y
+>>>> run split on _ZL13Utf16_To_Utf8PKtPcm15ConversionFlags
+>>>> run split on _ZN7Vector3C2Efff
+>>>> run split on _ZN10QuaternionC1Effff
+>>>> run split on _ZN10QuaternionC2Effff
+>>>> run split on _ZL27IsPointInsideExtendedCanvas7Vector3ff
+>>>> run split on _ZL19IsPointInsideCanvas7Vector3ff
+>>>> run split on _ZN18GXMatrixCacheEntryC2Ev
+>>>> run split on _ZN7TMatrixC1Ev
+>>>> run split on _ZN7TMatrixC2Ev
+>>>> run split on _ZN10QuaternionC1Ev
+>>>> run split on _ZN10QuaternionC2Ev
+>>>> run split on _ZN7Vector34zeroEv
+>>>> run split on _ZL18GXCacheParentIndexyiPi
+>>>> run split on _ZL18GXCacheReadTMatrixyP7TMatrix
+>>>> run split on _ZL17GXMatrixCacheHashy
+>>>> run split on _GLOBAL__sub_I_UnityMath.mm
+split time: 0.0022991s
+>>>> run fla on unity_math_info_layout
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZNSt3__16__math8isfiniteB8de190107Ed
+Fixing Stack
+Fixed Stack
+>>>> run fla on unity_math_info_visibility
+Fixing Stack
+Fixed Stack
+>>>> run fla on unity_math_line_end_offset
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z13WorldToScreen7Vector3PKf18CameraMatrixLayoutffb
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN7Vector3C1Efff
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZNSt3__16__math8isfiniteB8de190107Ef
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjection
+>>>> run fla on _Z10isValidPtry
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN10Quaternion8IdentityEv
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_0clEv
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z5_readyPvi
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL29IsPerspectiveProjectionMatrixPKf18CameraMatrixLayout
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL21ScoreCameraProjectionPKf18CameraMatrixLayoutPK22CameraProjectionSamplemff
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_1clEPKf18CameraMatrixLayout
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN10Quaternion3DotES_S_
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL24IsFiniteProjectionMatrixPKf
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_2clEv
+Fixing Stack
+Fixed Stack
+>>>> run fla on __cxx_global_var_init
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN18GXMatrixCacheEntryC1Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z25GXBeginTransformReadFramev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z14getPositionExty
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL16GXGetPositionExtyb
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z22getPositionExtUncachedy
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z11GetNickNamey
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z8ReadAddrIyET_y
+Fixing Stack
+Fixed Stack
+>>>> run fla on _Z8ReadAddrIiET_y
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL13Utf16_To_Utf8PKtPcm15ConversionFlags
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN7Vector3C2Efff
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN10QuaternionC1Effff
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN10QuaternionC2Effff
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL27IsPointInsideExtendedCanvas7Vector3ff
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL19IsPointInsideCanvas7Vector3ff
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN18GXMatrixCacheEntryC2Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN7TMatrixC1Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN7TMatrixC2Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN10QuaternionC1Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN10QuaternionC2Ev
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZN7Vector34zeroEv
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL18GXCacheParentIndexyiPi
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL18GXCacheReadTMatrixyP7TMatrix
+Fixing Stack
+Fixed Stack
+>>>> run fla on _ZL17GXMatrixCacheHashy
+Fixing Stack
+Fixed Stack
+>>>> run fla on _GLOBAL__sub_I_UnityMath.mm
+Fixing Stack
+Fixed Stack
+fla time: 0.0809240s
+>>>> run sub on unity_math_info_layout
+>>>> run sub on _ZNSt3__16__math8isfiniteB8de190107Ed
+>>>> run sub on unity_math_info_visibility
+>>>> run sub on unity_math_line_end_offset
+>>>> run sub on _Z13WorldToScreen7Vector3PKf18CameraMatrixLayoutffb
+>>>> run sub on _ZN7Vector3C1Efff
+>>>> run sub on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run sub on _Z20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjection
+>>>> run sub on _Z10isValidPtry
+>>>> run sub on _ZN10Quaternion8IdentityEv
+>>>> run sub on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_0clEv
+>>>> run sub on _Z5_readyPvi
+>>>> run sub on _ZL29IsPerspectiveProjectionMatrixPKf18CameraMatrixLayout
+>>>> run sub on _ZL21ScoreCameraProjectionPKf18CameraMatrixLayoutPK22CameraProjectionSamplemff
+>>>> run sub on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_1clEPKf18CameraMatrixLayout
+>>>> run sub on _ZN10Quaternion3DotES_S_
+>>>> run sub on _ZL24IsFiniteProjectionMatrixPKf
+>>>> run sub on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_2clEv
+>>>> run sub on __cxx_global_var_init
+>>>> run sub on _ZN18GXMatrixCacheEntryC1Ev
+>>>> run sub on _Z25GXBeginTransformReadFramev
+>>>> run sub on _Z14getPositionExty
+>>>> run sub on _ZL16GXGetPositionExtyb
+>>>> run sub on _Z22getPositionExtUncachedy
+>>>> run sub on _Z11GetNickNamey
+>>>> run sub on _Z8ReadAddrIyET_y
+>>>> run sub on _Z8ReadAddrIiET_y
+>>>> run sub on _ZL13Utf16_To_Utf8PKtPcm15ConversionFlags
+>>>> run sub on _ZN7Vector3C2Efff
+>>>> run sub on _ZN10QuaternionC1Effff
+>>>> run sub on _ZN10QuaternionC2Effff
+>>>> run sub on _ZL27IsPointInsideExtendedCanvas7Vector3ff
+>>>> run sub on _ZL19IsPointInsideCanvas7Vector3ff
+>>>> run sub on _ZN18GXMatrixCacheEntryC2Ev
+>>>> run sub on _ZN7TMatrixC1Ev
+>>>> run sub on _ZN7TMatrixC2Ev
+>>>> run sub on _ZN10QuaternionC1Ev
+>>>> run sub on _ZN10QuaternionC2Ev
+>>>> run sub on _ZN7Vector34zeroEv
+>>>> run sub on _ZL18GXCacheParentIndexyiPi
+>>>> run sub on _ZL18GXCacheReadTMatrixyP7TMatrix
+>>>> run sub on _ZL17GXMatrixCacheHashy
+>>>> run sub on _GLOBAL__sub_I_UnityMath.mm
+sub time: 0.0088170s
+>>>> run constenc on unity_math_info_layout
+>>>> run constenc on _ZNSt3__16__math8isfiniteB8de190107Ed
+>>>> run constenc on unity_math_info_visibility
+>>>> run constenc on unity_math_line_end_offset
+>>>> run constenc on _Z13WorldToScreen7Vector3PKf18CameraMatrixLayoutffb
+>>>> run constenc on _ZN7Vector3C1Efff
+>>>> run constenc on _ZNSt3__16__math8isfiniteB8de190107Ef
+>>>> run constenc on _Z20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjection
+>>>> run constenc on _Z10isValidPtry
+>>>> run constenc on _ZN10Quaternion8IdentityEv
+>>>> run constenc on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_0clEv
+>>>> run constenc on _Z5_readyPvi
+>>>> run constenc on _ZL29IsPerspectiveProjectionMatrixPKf18CameraMatrixLayout
+>>>> run constenc on _ZL21ScoreCameraProjectionPKf18CameraMatrixLayoutPK22CameraProjectionSamplemff
+>>>> run constenc on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_1clEPKf18CameraMatrixLayout
+>>>> run constenc on _ZN10Quaternion3DotES_S_
+>>>> run constenc on _ZL24IsFiniteProjectionMatrixPKf
+>>>> run constenc on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_2clEv
+>>>> run constenc on __cxx_global_var_init
+>>>> run constenc on _ZN18GXMatrixCacheEntryC1Ev
+>>>> run constenc on _Z25GXBeginTransformReadFramev
+>>>> run constenc on _Z14getPositionExty
+>>>> run constenc on _ZL16GXGetPositionExtyb
+>>>> run constenc on _Z22getPositionExtUncachedy
+>>>> run constenc on _Z11GetNickNamey
+>>>> run constenc on _Z8ReadAddrIyET_y
+>>>> run constenc on _Z8ReadAddrIiET_y
+>>>> run constenc on _ZL13Utf16_To_Utf8PKtPcm15ConversionFlags
+>>>> run constenc on _ZN7Vector3C2Efff
+>>>> run constenc on _ZN10QuaternionC1Effff
+>>>> run constenc on _ZN10QuaternionC2Effff
+>>>> run constenc on _ZL27IsPointInsideExtendedCanvas7Vector3ff
+>>>> run constenc on _ZL19IsPointInsideCanvas7Vector3ff
+>>>> run constenc on _ZN18GXMatrixCacheEntryC2Ev
+>>>> run constenc on _ZN7TMatrixC1Ev
+>>>> run constenc on _ZN7TMatrixC2Ev
+>>>> run constenc on _ZN10QuaternionC1Ev
+>>>> run constenc on _ZN10QuaternionC2Ev
+>>>> run constenc on _ZN7Vector34zeroEv
+>>>> run constenc on _ZL18GXCacheParentIndexyiPi
+>>>> run constenc on _ZL18GXCacheReadTMatrixyP7TMatrix
+>>>> run constenc on _ZL17GXMatrixCacheHashy
+>>>> run constenc on _GLOBAL__sub_I_UnityMath.mm
+constenc time: 0.0442858s
+>>>> run indibr on _ZL13Utf16_To_Utf8PKtPcm15ConversionFlags
+Running IndirectBranch On _ZL13Utf16_To_Utf8PKtPcm15ConversionFlags
+>>>> run indibr on _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_2clEv
+Running IndirectBranch On _ZZ20FindCameraProjectionyy7Vector310QuaternionbyPK22CameraProjectionSamplemffP16CameraProjectionENK3$_2clEv
+>>>> run indibr on __cxx_global_var_init
